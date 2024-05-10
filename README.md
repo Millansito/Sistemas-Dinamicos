@@ -1,1 +1,2 @@
-# Sistemas-Din-micos
+# Sistemas-Dinámicos
+Philip M Millán 20202005096
